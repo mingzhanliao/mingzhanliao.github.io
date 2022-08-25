@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: 三体数学
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 收集三体中关于数学的问题
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
